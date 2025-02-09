@@ -1,6 +1,6 @@
-# Chat Assistant Application
+# NLP-ASSIGNMENT
 
-This application is a command-line chat assistant powered by the Mistral AI model. It provides interactive conversations and processes user input to generate responses based on predefined logic.
+Setting basic configuration to run our first chat client model.
 
 ## Requirements
 - Python 3.8 or higher
@@ -38,3 +38,7 @@ python main.py
 
 # Windows
 python main.py
+
+# 6. Do not forget
+# When you make changes with new libs, do not forget to add them to the requirements file, using the following command
+pip freeze > requirements.txt
